@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <br> <br>
+![Maanas's github stats](https://github-readme-stats.vercel.app/api?username=Maanas74&show_icons=true&theme=dark&include_all_commits=true)
+<br> <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Cloud Computing☁💙 <br />
 ✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
